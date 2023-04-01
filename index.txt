@@ -6,7 +6,7 @@ This is a business agency html template made by codewithsadee
 
 #---------- HEADER ----------#
 
-alt = Adex home
+alt = econiture home
 
 aria-label = close menu
 <ion-icon name="close-outline" aria-hidden="true"></ion-icon>
