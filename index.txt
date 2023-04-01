@@ -180,7 +180,7 @@ Try it For Free
 
 #---------- FOOTER ----------#
 
-alt = Adex home
+alt = econiture home
 &copy; 2022 codewithsadee. All rights reserved.
 
 <ion-icon name="logo-facebook"></ion-icon>
