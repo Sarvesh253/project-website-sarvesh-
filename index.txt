@@ -17,8 +17,8 @@ Projects
 Blog
 Contact
 
-info@email.com
-00 (123) 456 78 90
+vijaymurade253@gmail.com
+9049275529
 
 <ion-icon name="logo-twitter"></ion-icon>
 <ion-icon name="logo-facebook"></ion-icon>
